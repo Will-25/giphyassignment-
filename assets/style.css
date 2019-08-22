@@ -1,0 +1,35 @@
+.boxcontainer {
+    background-color:blue;
+    height: 100px;
+    
+}
+
+#giphs {
+    background-color:pink;
+    height:600px;
+}
+#searchbar {
+    background-color:black;
+    height:150px;
+}
+
+.giphcontainer {
+    background-color:purple;
+    height:200px;
+}
+
+#searchbar {
+    margin-top:60px;
+    
+}
+
+#submit {
+    margin-top: 10px;
+}
+
+#newbutton {
+    margin:10px;
+    margin-top: 20px;
+    height:30px;
+    width:50px;
+}
