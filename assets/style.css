@@ -33,3 +33,9 @@
     height:30px;
     width:80px;
 }
+
+#giphsize {
+    height:100px;
+    width:100px;
+    float:left;
+}
