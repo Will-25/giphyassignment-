@@ -1,26 +1,33 @@
+body {
+    margin-left:200px;
+    margin-right:200px;
+}
+
+
 .boxcontainer {
-    background-color:blue;
-    height: 100px;
+    background-color:#FFFF99;
+    height: 200px;
     
 }
 
 #giphs {
-    background-color:pink;
+   
     height:600px;
 }
 #searchbar {
-    background-color:black;
+    
     height:150px;
 }
 
 .giphcontainer {
-    background-color:purple;
+    
     height:200px;
+    
 }
 
 #searchbar {
     margin-top:60px;
-    
+   
 }
 
 #submit {
@@ -35,7 +42,19 @@
 }
 
 #giphsize {
-    height:100px;
-    width:100px;
-    float:left;
+    height:200px;
+    width:200px;
+    
+}
+
+h1 {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 40px;
+    text-align:center;
+}
+
+h2 {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 10px;
+    text-align:center;
 }
